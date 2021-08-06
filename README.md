@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Luciano Zago
 
-I'm an undergrad student in Computer Engineering at UNICAMP. Currently an Intern at the Brazilian Synchrotron Light Laboratory (LNLS) designing solutions in **automation** and **monitoring** of **high-performance computing** machines.
+I'm a MSc student in Computer Science at UNICAMP. My research area is **compiler construction** and **code optimization**. I'm also interested in **computer architecture**, **HPC systems** and **parallel computing**.
 
 ### Technologies
 #### Programming
