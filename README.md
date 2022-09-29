@@ -21,3 +21,5 @@ I'm a MSc student in Computer Science at UNICAMP. My research area is **compiler
 
 ---
 More info at [lucianozago.com](https://lucianozago.com)
+
+[![@lcnzg's Holopin board](https://holopin.io/api/user/board?user=lcnzg)](https://holopin.io/@lcnzg)
