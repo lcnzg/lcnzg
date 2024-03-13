@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Luciano Zago
 
-I'm a MSc student in Computer Science at UNICAMP. My research area is **compiler construction** and **code optimization**. I'm also interested in **computer architecture**, **HPC systems** and **parallel computing**.
+I have a MSc in Computer Science from UNICAMP. My research area is **compiler construction** and **code optimization**. I'm also interested in **computer architecture**, **HPC systems** and **parallel computing**.
 
 ### Technologies
 #### Programming
